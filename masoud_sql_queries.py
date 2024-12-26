@@ -1,0 +1,1 @@
+insert_query = "insert into registery (name,last_name,age) values('{name}','{last_name}',{age});"
